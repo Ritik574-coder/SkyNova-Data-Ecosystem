@@ -1,0 +1,12 @@
+Hello, and welcome!
+
+I'm **Ritik**, a Data Engineering enthusiast passionate about building enterprise-scale data platforms and solving real-world data challenges.
+This is **SkyNova Data Ecosystem**—a production-inspired enterprise project designed to simulate how modern organizations collect, process, transform, and analyze data across multiple industries.
+Unlike a traditional portfolio project that focuses on a single application, SkyNova represents an interconnected ecosystem of eight companies operating in different business domains, including e-commerce, logistics, banking, retail, digital payments, cloud computing, artificial intelligence, and space technology.
+The goal of this project is to replicate real enterprise data engineering workflows by building scalable data pipelines, cloud-native architectures, data lakes, data warehouses, orchestration workflows, analytics platforms, and modern software engineering practices.
+Throughout this ecosystem, you'll find a wide variety of data, including structured, semi-structured, and unstructured datasets such as transactional records, customer data, product catalogs, payment events, application logs, API responses, images, documents, telemetry, and streaming events.
+SkyNova is more than a coding project. It is a long-term learning platform where I continuously explore enterprise architecture, Data Engineering, Analytics Engineering, Cloud Computing, Artificial Intelligence, and modern data platform technologies.
+Every component is designed to simulate real business scenarios, helping me gain practical experience with the tools, patterns, and best practices used by technology companies around the world.
+Thank you for visiting the SkyNova Data Ecosystem.
+I hope this project provides valuable insights into my learning journey, engineering approach, and passion for building scalable data solutions.
+Let's explore the ecosystem.
