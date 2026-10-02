@@ -1,0 +1,397 @@
+sku,old_category,old_subcategory,new_category,new_subcategory,change_date,source_system
+SKU-0000007,Board Games,Family Games,Kids Toys,Dolls,2025-10-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000031,Women's Clothing,Jeans,Men's Clothing,Shirts,2025-12-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000082,Fitness,Resistance Bands,Fitness,Dumbbells,2024-05-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000112,Computers,Monitors,Mobile & Accessories,Smartphones,2024-10-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000162,Outdoor Recreation,Tents,Team Sports,Football Gear,2021-08-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000295,Mobile & Accessories,Cases & Covers,Computers,Monitors,2022-01-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000330,Furniture,Beds,Home Decor,Wall Art,2026-06-03,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000366,Outdoor Recreation,Tents,Outdoor Recreation,Water Bottles,2026-05-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000418,Snacks,Chips,Snacks,Biscuits,2024-01-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000448,Haircare,Shampoo,Skincare,Sunscreens,2023-07-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000618,Home Decor,Curtains,Home Decor,Wall Art,2023-03-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000689,Outdoor Recreation,Backpacks,Outdoor Recreation,Water Bottles,2020-12-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000704,Kids Toys,Action Figures,Board Games,Family Games,2023-04-14,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000733,Furniture,Sofas,Kitchen Appliances,Refrigerators,2024-04-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000761,Footwear,Sandals,Footwear,Sneakers,2024-11-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000827,Fitness,Resistance Bands,Fitness,Resistance Bands,2024-05-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000849,Mobile & Accessories,Earphones,Television & Audio,Bluetooth Speakers,2026-06-03,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000975,Women's Clothing,Tops,Women's Clothing,Jeans,2024-05-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0000994,Mobile & Accessories,Chargers,Mobile & Accessories,Chargers,2025-09-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001004,Haircare,Shampoo,Haircare,Shampoo,2022-05-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001031,Furniture,Tables,Kitchen Appliances,Refrigerators,2024-07-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001119,Women's Clothing,Dresses,Footwear,Sandals,2026-02-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001157,Television & Audio,Soundbars,Television & Audio,Bluetooth Speakers,2023-05-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001189,Beverages,Tea & Coffee,Staples,Cooking Oil,2022-10-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001221,Kids Toys,Building Blocks,Board Games,Family Games,2025-09-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001248,Footwear,Sneakers,Men's Clothing,Jackets,2023-10-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001254,Beverages,Tea & Coffee,Beverages,Soft Drinks,2025-07-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001257,Board Games,Family Games,Kids Toys,Building Blocks,2025-02-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001266,Kids Toys,Dolls,Kids Toys,Action Figures,2021-10-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001320,Snacks,Biscuits,Beverages,Tea & Coffee,2026-06-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001450,Fitness,Yoga Mats,Fitness,Resistance Bands,2026-01-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001454,Men's Clothing,Jackets,Women's Clothing,Sarees,2026-06-03,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001483,Home Decor,Curtains,Furniture,Sofas,2025-03-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001495,Staples,Flour,Beverages,Soft Drinks,2026-09-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001538,Television & Audio,Televisions,Computers,Laptops,2024-02-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001552,Outdoor Recreation,Backpacks,Fitness,Resistance Bands,2025-11-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001633,Men's Clothing,Shirts,Footwear,Formal Shoes,2025-07-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001723,Beverages,Soft Drinks,Staples,Pulses,2024-09-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001759,Women's Clothing,Jeans,Women's Clothing,Tops,2025-01-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001800,Home Decor,Wall Art,Kitchen Appliances,Microwaves,2024-05-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001822,Outdoor Recreation,Water Bottles,Outdoor Recreation,Water Bottles,2022-10-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001851,Staples,Cooking Oil,Beverages,Tea & Coffee,2022-05-08,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001896,Kitchen Appliances,Microwaves,Furniture,Chairs,2020-08-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0001912,Stationery,Notebooks,Books,Non-Fiction,2022-01-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002049,Team Sports,Badminton Gear,Fitness,Yoga Mats,2024-11-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002168,Skincare,Sunscreens,Skincare,Moisturizers,2024-06-01,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002187,Women's Clothing,Jeans,Women's Clothing,Sarees,2024-06-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002192,Television & Audio,Soundbars,Computers,Monitors,2023-01-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002227,Men's Clothing,Trousers,Men's Clothing,Shirts,2026-01-21,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002263,Furniture,Chairs,Kitchen Appliances,Refrigerators,2025-01-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002378,Men's Clothing,Shirts,Footwear,Formal Shoes,2023-12-21,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002455,Kitchen Appliances,Microwaves,Kitchen Appliances,Mixers,2022-10-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002456,Women's Clothing,Jeans,Men's Clothing,Shirts,2021-03-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002537,Computers,Keyboards & Mice,Television & Audio,Bluetooth Speakers,2026-01-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002557,Haircare,Conditioner,Fragrances,Perfumes,2024-03-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002587,Staples,Rice,Snacks,Namkeen,2025-06-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002666,Women's Clothing,Sarees,Women's Clothing,Jeans,2025-10-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002679,Stationery,Notebooks,Stationery,Notebooks,2022-08-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002681,Computers,Laptops,Television & Audio,Televisions,2022-07-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002688,Mobile & Accessories,Smartphones,Television & Audio,Soundbars,2020-08-14,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002743,Team Sports,Football Gear,Fitness,Resistance Bands,2025-05-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002849,Outdoor Recreation,Water Bottles,Team Sports,Football Gear,2024-10-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002873,Computers,Keyboards & Mice,Mobile & Accessories,Smartphones,2023-11-14,SOURCE_PIM_PRODUCT_MASTER
+SKU-0002881,Fitness,Resistance Bands,Team Sports,Football Gear,2021-07-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003000,Snacks,Chips,Beverages,Soft Drinks,2022-07-08,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003011,Snacks,Biscuits,Snacks,Namkeen,2025-12-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003042,Beverages,Juices,Snacks,Biscuits,2022-04-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003060,Women's Clothing,Tops,Women's Clothing,Sarees,2023-04-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003120,Computers,Monitors,Computers,Keyboards & Mice,2024-01-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003145,Men's Clothing,T-Shirts,Men's Clothing,Shirts,2023-12-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003155,Haircare,Hair Oil,Skincare,Sunscreens,2025-06-14,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003189,Kitchen Appliances,Microwaves,Kitchen Appliances,Refrigerators,2021-11-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003225,Stationery,Pens & Pencils,Stationery,Pens & Pencils,2025-05-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003254,Home Decor,Lighting,Furniture,Sofas,2026-03-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003441,Outdoor Recreation,Backpacks,Fitness,Resistance Bands,2025-05-08,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003474,Women's Clothing,Dresses,Women's Clothing,Jeans,2021-07-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003476,Fragrances,Perfumes,Haircare,Hair Oil,2024-04-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003531,Kitchen Appliances,Microwaves,Home Decor,Wall Art,2024-02-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003534,Men's Clothing,T-Shirts,Footwear,Formal Shoes,2022-11-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003536,Board Games,Puzzles,Board Games,Family Games,2021-04-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003559,Women's Clothing,Jeans,Women's Clothing,Tops,2024-08-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003752,Fitness,Dumbbells,Outdoor Recreation,Water Bottles,2024-07-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003804,Men's Clothing,T-Shirts,Women's Clothing,Sarees,2025-07-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003820,Women's Clothing,Dresses,Men's Clothing,T-Shirts,2023-02-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003880,Stationery,Notebooks,Books,Non-Fiction,2019-07-15,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003900,Beverages,Tea & Coffee,Beverages,Soft Drinks,2021-11-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003922,Home Decor,Lighting,Home Decor,Lighting,2023-08-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003951,Computers,Laptops,Television & Audio,Bluetooth Speakers,2025-11-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003974,Stationery,Pens & Pencils,Stationery,Notebooks,2025-03-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0003982,Skincare,Sunscreens,Fragrances,Deodorants,2023-06-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004050,Team Sports,Cricket Gear,Outdoor Recreation,Tents,2024-04-28,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004053,Fragrances,Deodorants,Haircare,Conditioner,2021-09-15,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004094,Television & Audio,Soundbars,Computers,Laptops,2025-02-08,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004113,Kids Toys,Action Figures,Kids Toys,Building Blocks,2023-02-01,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004145,Kitchen Appliances,Mixers,Furniture,Tables,2022-10-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004161,Television & Audio,Soundbars,Computers,Desktops,2020-04-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004172,Snacks,Namkeen,Snacks,Namkeen,2025-04-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004184,Computers,Desktops,Computers,Laptops,2024-01-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004340,Skincare,Sunscreens,Skincare,Moisturizers,2024-10-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004369,Skincare,Sunscreens,Skincare,Moisturizers,2021-03-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004397,Mobile & Accessories,Smartphones,Television & Audio,Bluetooth Speakers,2022-06-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004406,Beverages,Soft Drinks,Beverages,Soft Drinks,2024-10-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004480,Kitchen Appliances,Microwaves,Furniture,Tables,2023-09-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004543,Furniture,Sofas,Home Decor,Curtains,2022-10-08,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004598,Haircare,Hair Oil,Haircare,Conditioner,2021-08-01,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004760,Kitchen Appliances,Microwaves,Home Decor,Curtains,2025-04-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004818,Snacks,Biscuits,Snacks,Chips,2026-08-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0004971,Outdoor Recreation,Backpacks,Outdoor Recreation,Tents,2021-09-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005185,Books,Children's Books,Stationery,Notebooks,2019-06-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005189,Fitness,Yoga Mats,Fitness,Yoga Mats,2023-04-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005291,Haircare,Conditioner,Fragrances,Deodorants,2025-08-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005352,Fitness,Dumbbells,Outdoor Recreation,Water Bottles,2025-06-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005370,Beverages,Juices,Beverages,Tea & Coffee,2025-04-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005405,Books,Children's Books,Stationery,Notebooks,2025-10-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005428,Home Decor,Wall Art,Kitchen Appliances,Mixers,2023-08-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005472,Skincare,Sunscreens,Fragrances,Perfumes,2026-02-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005572,Board Games,Family Games,Board Games,Family Games,2022-10-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005653,Computers,Keyboards & Mice,Computers,Monitors,2026-08-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005744,Women's Clothing,Jeans,Men's Clothing,T-Shirts,2020-11-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005746,Television & Audio,Televisions,Television & Audio,Televisions,2025-09-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005785,Skincare,Sunscreens,Fragrances,Deodorants,2024-06-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005816,Men's Clothing,Trousers,Women's Clothing,Dresses,2025-08-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005825,Staples,Rice,Snacks,Chips,2022-03-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005873,Men's Clothing,T-Shirts,Women's Clothing,Sarees,2024-08-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0005977,Footwear,Sneakers,Women's Clothing,Tops,2023-09-15,SOURCE_PIM_PRODUCT_MASTER
+SKU-0006047,Television & Audio,Soundbars,Mobile & Accessories,Chargers,2022-03-14,SOURCE_PIM_PRODUCT_MASTER
+SKU-0006133,Computers,Laptops,Computers,Monitors,2024-05-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0006184,Team Sports,Football Gear,Team Sports,Cricket Gear,2020-12-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0006493,Television & Audio,Soundbars,Television & Audio,Televisions,2024-01-15,SOURCE_PIM_PRODUCT_MASTER
+SKU-0006501,Haircare,Hair Oil,Skincare,Sunscreens,2021-10-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0006567,Computers,Laptops,Computers,Monitors,2023-07-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0006681,Furniture,Chairs,Kitchen Appliances,Refrigerators,2022-06-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0006802,Men's Clothing,T-Shirts,Women's Clothing,Tops,2021-04-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0006867,Snacks,Namkeen,Snacks,Namkeen,2026-03-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0006881,Kids Toys,Building Blocks,Board Games,Puzzles,2026-03-31,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007019,Haircare,Hair Oil,Haircare,Shampoo,2022-02-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007043,Footwear,Sneakers,Men's Clothing,T-Shirts,2024-10-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007082,Fragrances,Deodorants,Skincare,Sunscreens,2025-10-21,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007123,Women's Clothing,Tops,Women's Clothing,Sarees,2025-03-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007170,Kids Toys,Building Blocks,Kids Toys,Dolls,2022-07-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007175,Outdoor Recreation,Water Bottles,Outdoor Recreation,Water Bottles,2026-09-15,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007193,Kitchen Appliances,Refrigerators,Home Decor,Curtains,2025-05-28,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007196,Staples,Rice,Snacks,Biscuits,2021-11-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007197,Staples,Cooking Oil,Beverages,Juices,2023-07-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007274,Women's Clothing,Jeans,Men's Clothing,Trousers,2021-11-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007303,Books,Fiction,Stationery,Notebooks,2026-02-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007394,Kids Toys,Building Blocks,Kids Toys,Action Figures,2025-02-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007414,Computers,Keyboards & Mice,Television & Audio,Bluetooth Speakers,2022-03-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007417,Kitchen Appliances,Microwaves,Kitchen Appliances,Microwaves,2021-12-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007464,Beverages,Soft Drinks,Beverages,Juices,2022-09-28,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007471,Fragrances,Deodorants,Fragrances,Deodorants,2023-12-28,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007508,Mobile & Accessories,Smartphones,Computers,Keyboards & Mice,2022-02-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007564,Snacks,Biscuits,Staples,Cooking Oil,2020-08-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007640,Television & Audio,Televisions,Computers,Desktops,2024-10-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007684,Snacks,Biscuits,Beverages,Tea & Coffee,2022-05-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007714,Books,Children's Books,Books,Non-Fiction,2024-01-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007735,Kitchen Appliances,Refrigerators,Kitchen Appliances,Mixers,2023-01-31,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007787,Beverages,Tea & Coffee,Staples,Pulses,2024-02-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007800,Kitchen Appliances,Microwaves,Kitchen Appliances,Refrigerators,2025-03-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007844,Mobile & Accessories,Smartphones,Television & Audio,Bluetooth Speakers,2026-07-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007906,Staples,Cooking Oil,Beverages,Tea & Coffee,2022-09-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007939,Kids Toys,Building Blocks,Kids Toys,Building Blocks,2024-09-03,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007961,Board Games,Family Games,Board Games,Puzzles,2023-08-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007983,Stationery,Pens & Pencils,Books,Non-Fiction,2023-07-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0007994,Mobile & Accessories,Chargers,Computers,Desktops,2025-01-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008075,Home Decor,Wall Art,Home Decor,Curtains,2025-08-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008091,Beverages,Soft Drinks,Staples,Flour,2026-08-01,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008150,Outdoor Recreation,Backpacks,Outdoor Recreation,Water Bottles,2026-02-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008202,Fitness,Resistance Bands,Team Sports,Cricket Gear,2022-09-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008211,Snacks,Namkeen,Staples,Cooking Oil,2025-10-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008246,Mobile & Accessories,Earphones,Computers,Monitors,2024-05-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008405,Kids Toys,Action Figures,Board Games,Puzzles,2025-01-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008442,Team Sports,Cricket Gear,Team Sports,Cricket Gear,2024-09-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008449,Women's Clothing,Jeans,Women's Clothing,Jeans,2026-03-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008495,Women's Clothing,Dresses,Women's Clothing,Dresses,2026-09-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008507,Computers,Monitors,Computers,Laptops,2020-11-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008515,Skincare,Sunscreens,Skincare,Face Wash,2024-10-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008527,Snacks,Namkeen,Snacks,Biscuits,2021-04-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008758,Books,Non-Fiction,Books,Children's Books,2021-03-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008891,Beverages,Juices,Snacks,Biscuits,2022-02-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008905,Mobile & Accessories,Chargers,Computers,Keyboards & Mice,2021-04-15,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008923,Books,Children's Books,Stationery,Notebooks,2019-12-31,SOURCE_PIM_PRODUCT_MASTER
+SKU-0008982,Women's Clothing,Jeans,Footwear,Sandals,2025-01-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009019,Staples,Pulses,Beverages,Tea & Coffee,2025-07-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009031,Fitness,Yoga Mats,Team Sports,Cricket Gear,2021-08-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009052,Books,Children's Books,Stationery,Notebooks,2021-08-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009066,Books,Non-Fiction,Books,Children's Books,2023-10-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009183,Board Games,Family Games,Kids Toys,Building Blocks,2024-12-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009190,Haircare,Conditioner,Haircare,Conditioner,2023-01-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009263,Furniture,Beds,Home Decor,Lighting,2020-12-31,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009336,Television & Audio,Bluetooth Speakers,Computers,Monitors,2022-09-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009337,Fitness,Yoga Mats,Fitness,Resistance Bands,2023-02-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009377,Stationery,Notebooks,Books,Children's Books,2024-05-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009498,Kids Toys,Building Blocks,Board Games,Family Games,2025-01-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009503,Skincare,Moisturizers,Haircare,Hair Oil,2023-09-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009524,Mobile & Accessories,Cases & Covers,Computers,Monitors,2022-06-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009570,Mobile & Accessories,Smartphones,Television & Audio,Soundbars,2024-05-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009725,Home Decor,Curtains,Furniture,Tables,2024-01-14,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009747,Footwear,Sandals,Footwear,Sneakers,2024-07-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009753,Skincare,Moisturizers,Fragrances,Deodorants,2023-11-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009813,Home Decor,Wall Art,Furniture,Chairs,2020-08-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009841,Women's Clothing,Sarees,Women's Clothing,Jeans,2020-03-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0009852,Furniture,Beds,Furniture,Sofas,2024-10-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010034,Snacks,Namkeen,Beverages,Tea & Coffee,2022-02-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010152,Staples,Flour,Staples,Pulses,2024-06-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010159,Footwear,Sandals,Footwear,Sandals,2026-02-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010193,Snacks,Chips,Beverages,Juices,2023-06-28,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010250,Stationery,Notebooks,Books,Children's Books,2023-01-14,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010270,Furniture,Sofas,Home Decor,Lighting,2024-03-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010271,Television & Audio,Soundbars,Mobile & Accessories,Cases & Covers,2025-08-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010284,Television & Audio,Televisions,Mobile & Accessories,Cases & Covers,2023-09-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010306,Men's Clothing,Shirts,Men's Clothing,Jackets,2024-10-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010327,Computers,Laptops,Computers,Monitors,2024-12-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010356,Men's Clothing,Shirts,Women's Clothing,Tops,2022-09-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010452,Footwear,Sneakers,Men's Clothing,Jackets,2022-02-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010497,Computers,Laptops,Mobile & Accessories,Smartphones,2023-08-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010548,Television & Audio,Bluetooth Speakers,Computers,Monitors,2023-02-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010582,Furniture,Tables,Kitchen Appliances,Refrigerators,2025-11-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010594,Home Decor,Wall Art,Kitchen Appliances,Refrigerators,2025-12-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010642,Outdoor Recreation,Water Bottles,Fitness,Resistance Bands,2025-08-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010648,Fragrances,Deodorants,Skincare,Moisturizers,2023-04-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010657,Skincare,Sunscreens,Skincare,Sunscreens,2024-02-21,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010704,Fitness,Resistance Bands,Team Sports,Football Gear,2026-04-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010724,Mobile & Accessories,Cases & Covers,Computers,Monitors,2022-02-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0010736,Mobile & Accessories,Chargers,Mobile & Accessories,Smartphones,2023-08-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011007,Outdoor Recreation,Tents,Fitness,Yoga Mats,2025-09-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011029,Fitness,Resistance Bands,Fitness,Dumbbells,2025-06-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011052,Staples,Flour,Staples,Flour,2024-10-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011142,Snacks,Biscuits,Beverages,Juices,2024-02-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011162,Fitness,Resistance Bands,Outdoor Recreation,Backpacks,2023-01-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011240,Staples,Cooking Oil,Snacks,Chips,2025-12-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011275,Kids Toys,Dolls,Kids Toys,Dolls,2022-11-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011324,Furniture,Chairs,Home Decor,Lighting,2023-07-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011335,Men's Clothing,Jackets,Women's Clothing,Sarees,2022-12-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011380,Board Games,Family Games,Kids Toys,Dolls,2024-09-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011398,Women's Clothing,Sarees,Men's Clothing,T-Shirts,2024-08-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011446,Skincare,Sunscreens,Haircare,Conditioner,2025-03-01,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011461,Staples,Rice,Staples,Rice,2025-05-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011475,Books,Fiction,Books,Children's Books,2022-11-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011529,Home Decor,Lighting,Kitchen Appliances,Microwaves,2024-01-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011573,Men's Clothing,T-Shirts,Footwear,Sneakers,2026-07-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011623,Outdoor Recreation,Tents,Fitness,Dumbbells,2020-12-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011657,Footwear,Sandals,Women's Clothing,Jeans,2025-05-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011660,Team Sports,Cricket Gear,Outdoor Recreation,Backpacks,2025-11-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011700,Computers,Monitors,Television & Audio,Bluetooth Speakers,2026-08-28,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011820,Furniture,Tables,Kitchen Appliances,Microwaves,2024-04-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011842,Men's Clothing,Jackets,Footwear,Formal Shoes,2021-06-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011850,Mobile & Accessories,Chargers,Television & Audio,Soundbars,2023-02-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011882,Computers,Desktops,Television & Audio,Soundbars,2023-06-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011966,Kitchen Appliances,Mixers,Furniture,Tables,2020-09-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0011971,Staples,Rice,Snacks,Biscuits,2021-08-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012030,Men's Clothing,Jackets,Men's Clothing,T-Shirts,2026-02-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012062,Mobile & Accessories,Cases & Covers,Computers,Laptops,2025-10-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012069,Home Decor,Lighting,Home Decor,Curtains,2026-06-01,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012133,Computers,Desktops,Television & Audio,Bluetooth Speakers,2026-07-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012166,Furniture,Tables,Kitchen Appliances,Refrigerators,2024-08-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012207,Staples,Pulses,Beverages,Tea & Coffee,2025-04-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012332,Skincare,Moisturizers,Skincare,Sunscreens,2022-12-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012372,Computers,Desktops,Mobile & Accessories,Chargers,2025-09-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012403,Kitchen Appliances,Microwaves,Kitchen Appliances,Mixers,2026-08-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012426,Mobile & Accessories,Earphones,Mobile & Accessories,Cases & Covers,2023-07-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012440,Haircare,Shampoo,Haircare,Shampoo,2024-05-14,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012616,Home Decor,Wall Art,Kitchen Appliances,Refrigerators,2023-10-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012623,Mobile & Accessories,Smartphones,Mobile & Accessories,Earphones,2022-09-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012633,Men's Clothing,Jackets,Footwear,Formal Shoes,2024-11-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012666,Men's Clothing,Jackets,Footwear,Formal Shoes,2022-12-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012764,Books,Fiction,Books,Non-Fiction,2020-08-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012800,Kitchen Appliances,Microwaves,Home Decor,Lighting,2023-09-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012851,Furniture,Tables,Home Decor,Curtains,2023-10-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0012855,Men's Clothing,Shirts,Men's Clothing,Jackets,2022-11-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013195,Furniture,Chairs,Kitchen Appliances,Refrigerators,2025-08-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013331,Skincare,Sunscreens,Fragrances,Deodorants,2024-08-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013576,Board Games,Family Games,Kids Toys,Building Blocks,2023-05-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013634,Home Decor,Wall Art,Kitchen Appliances,Refrigerators,2026-08-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013684,Beverages,Juices,Staples,Rice,2023-01-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013720,Men's Clothing,Trousers,Footwear,Formal Shoes,2023-07-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013722,Team Sports,Badminton Gear,Outdoor Recreation,Backpacks,2025-06-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013736,Computers,Desktops,Television & Audio,Bluetooth Speakers,2026-03-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013738,Home Decor,Wall Art,Furniture,Tables,2021-05-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013753,Kids Toys,Action Figures,Board Games,Puzzles,2025-05-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013798,Computers,Monitors,Computers,Desktops,2024-12-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013822,Skincare,Moisturizers,Skincare,Sunscreens,2024-03-14,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013863,Computers,Monitors,Television & Audio,Televisions,2023-03-08,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013895,Kids Toys,Dolls,Board Games,Family Games,2024-01-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013932,Beverages,Tea & Coffee,Beverages,Soft Drinks,2025-02-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0013969,Women's Clothing,Jeans,Men's Clothing,Shirts,2024-07-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014091,Haircare,Hair Oil,Fragrances,Perfumes,2026-05-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014114,Staples,Rice,Staples,Rice,2022-11-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014185,Skincare,Face Wash,Skincare,Face Wash,2020-06-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014213,Furniture,Sofas,Home Decor,Wall Art,2024-05-14,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014220,Furniture,Sofas,Home Decor,Curtains,2020-01-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014223,Beverages,Juices,Beverages,Soft Drinks,2025-06-21,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014226,Staples,Cooking Oil,Snacks,Namkeen,2022-08-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014227,Men's Clothing,Shirts,Footwear,Formal Shoes,2026-05-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014266,Skincare,Moisturizers,Fragrances,Deodorants,2022-01-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014304,Haircare,Hair Oil,Fragrances,Perfumes,2023-07-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014319,Team Sports,Badminton Gear,Outdoor Recreation,Tents,2024-03-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014335,Team Sports,Badminton Gear,Team Sports,Cricket Gear,2019-11-03,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014342,Beverages,Tea & Coffee,Snacks,Namkeen,2026-09-08,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014353,Skincare,Moisturizers,Skincare,Moisturizers,2021-12-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014556,Kids Toys,Building Blocks,Board Games,Puzzles,2025-10-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014586,Home Decor,Wall Art,Home Decor,Curtains,2023-05-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014830,Outdoor Recreation,Backpacks,Outdoor Recreation,Water Bottles,2023-05-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014901,Men's Clothing,Jackets,Women's Clothing,Dresses,2024-09-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014928,Mobile & Accessories,Earphones,Computers,Laptops,2022-08-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0014996,Haircare,Hair Oil,Fragrances,Perfumes,2025-10-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015004,Fitness,Dumbbells,Outdoor Recreation,Water Bottles,2023-02-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015091,Kids Toys,Dolls,Board Games,Puzzles,2026-05-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015184,Men's Clothing,Jackets,Men's Clothing,Trousers,2022-05-28,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015190,Snacks,Chips,Staples,Flour,2025-07-03,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015304,Outdoor Recreation,Water Bottles,Fitness,Dumbbells,2026-08-01,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015310,Home Decor,Curtains,Kitchen Appliances,Refrigerators,2026-06-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015312,Computers,Laptops,Computers,Monitors,2019-12-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015328,Furniture,Sofas,Kitchen Appliances,Refrigerators,2024-06-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015349,Outdoor Recreation,Backpacks,Team Sports,Football Gear,2026-05-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015518,Fragrances,Deodorants,Skincare,Sunscreens,2023-01-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015555,Haircare,Hair Oil,Fragrances,Deodorants,2021-06-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015595,Kitchen Appliances,Microwaves,Furniture,Chairs,2022-11-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015666,Computers,Laptops,Mobile & Accessories,Chargers,2024-10-03,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015678,Home Decor,Curtains,Home Decor,Lighting,2020-05-28,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015694,Furniture,Tables,Furniture,Tables,2024-09-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015712,Haircare,Hair Oil,Skincare,Moisturizers,2026-07-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015713,Staples,Pulses,Beverages,Tea & Coffee,2024-09-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015742,Men's Clothing,Trousers,Women's Clothing,Sarees,2020-04-01,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015797,Snacks,Biscuits,Snacks,Namkeen,2024-05-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015848,Fitness,Dumbbells,Team Sports,Badminton Gear,2022-07-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015858,Books,Non-Fiction,Books,Children's Books,2024-06-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015884,Beverages,Juices,Snacks,Chips,2023-12-31,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015911,Television & Audio,Bluetooth Speakers,Television & Audio,Soundbars,2025-06-07,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015946,Beverages,Juices,Staples,Cooking Oil,2024-02-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0015997,Home Decor,Lighting,Home Decor,Lighting,2026-04-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016048,Snacks,Namkeen,Staples,Pulses,2024-09-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016076,Kids Toys,Action Figures,Kids Toys,Action Figures,2026-04-15,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016118,Skincare,Moisturizers,Haircare,Shampoo,2024-07-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016219,Computers,Laptops,Computers,Monitors,2025-01-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016222,Stationery,Pens & Pencils,Stationery,Pens & Pencils,2025-10-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016280,Kids Toys,Building Blocks,Board Games,Family Games,2023-11-06,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016321,Kitchen Appliances,Refrigerators,Home Decor,Wall Art,2025-06-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016335,Haircare,Shampoo,Fragrances,Deodorants,2022-12-05,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016337,Outdoor Recreation,Backpacks,Outdoor Recreation,Backpacks,2022-08-08,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016497,Men's Clothing,T-Shirts,Footwear,Formal Shoes,2026-01-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016577,Women's Clothing,Dresses,Women's Clothing,Dresses,2024-07-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016663,Haircare,Hair Oil,Fragrances,Perfumes,2019-04-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016908,Women's Clothing,Dresses,Men's Clothing,Trousers,2021-03-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016934,Beverages,Soft Drinks,Staples,Flour,2024-04-29,SOURCE_PIM_PRODUCT_MASTER
+SKU-0016954,Kids Toys,Building Blocks,Board Games,Family Games,2025-05-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017147,Men's Clothing,Trousers,Footwear,Formal Shoes,2026-01-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017176,Books,Non-Fiction,Stationery,Pens & Pencils,2026-06-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017177,Fragrances,Deodorants,Fragrances,Deodorants,2023-11-15,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017353,Fitness,Resistance Bands,Team Sports,Cricket Gear,2026-04-08,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017412,Board Games,Puzzles,Board Games,Puzzles,2026-04-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017481,Outdoor Recreation,Backpacks,Team Sports,Badminton Gear,2021-09-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017510,Beverages,Soft Drinks,Beverages,Tea & Coffee,2023-05-08,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017560,Home Decor,Lighting,Kitchen Appliances,Mixers,2023-09-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017665,Footwear,Sneakers,Footwear,Sneakers,2025-01-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017692,Women's Clothing,Dresses,Men's Clothing,T-Shirts,2023-12-25,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017704,Mobile & Accessories,Smartphones,Mobile & Accessories,Cases & Covers,2023-08-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017787,Skincare,Face Wash,Haircare,Conditioner,2020-04-04,SOURCE_PIM_PRODUCT_MASTER
+SKU-0017923,Haircare,Shampoo,Haircare,Shampoo,2019-11-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018033,Board Games,Puzzles,Board Games,Puzzles,2025-02-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018048,Women's Clothing,Tops,Footwear,Sneakers,2023-11-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018119,Skincare,Face Wash,Skincare,Face Wash,2026-04-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018135,Footwear,Formal Shoes,Men's Clothing,Shirts,2021-04-28,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018169,Footwear,Sneakers,Footwear,Sandals,2023-07-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018271,Skincare,Sunscreens,Skincare,Sunscreens,2021-12-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018301,Kids Toys,Building Blocks,Kids Toys,Building Blocks,2024-01-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018329,Board Games,Puzzles,Board Games,Family Games,2023-04-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018476,Computers,Monitors,Television & Audio,Televisions,2022-11-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018611,Staples,Flour,Beverages,Soft Drinks,2024-11-09,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018644,Home Decor,Wall Art,Furniture,Sofas,2024-12-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018703,Staples,Pulses,Staples,Pulses,2022-02-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018830,Kids Toys,Dolls,Board Games,Puzzles,2023-07-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0018997,Beverages,Tea & Coffee,Staples,Cooking Oil,2024-01-01,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019037,Furniture,Chairs,Furniture,Sofas,2022-07-11,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019136,Beverages,Tea & Coffee,Snacks,Chips,2021-11-20,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019215,Staples,Flour,Staples,Rice,2025-11-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019216,Snacks,Chips,Snacks,Biscuits,2025-03-26,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019252,Mobile & Accessories,Chargers,Computers,Laptops,2022-11-02,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019260,Television & Audio,Bluetooth Speakers,Television & Audio,Televisions,2025-10-19,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019457,Home Decor,Curtains,Kitchen Appliances,Microwaves,2022-04-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019563,Footwear,Formal Shoes,Men's Clothing,Shirts,2026-03-18,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019629,Fitness,Resistance Bands,Fitness,Yoga Mats,2023-01-03,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019642,Women's Clothing,Dresses,Footwear,Formal Shoes,2021-05-22,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019688,Mobile & Accessories,Chargers,Television & Audio,Soundbars,2020-10-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019721,Stationery,Notebooks,Stationery,Notebooks,2026-04-23,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019761,Board Games,Puzzles,Kids Toys,Building Blocks,2024-06-27,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019788,Furniture,Tables,Kitchen Appliances,Mixers,2024-04-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019808,Staples,Rice,Staples,Flour,2021-11-30,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019818,Home Decor,Lighting,Kitchen Appliances,Refrigerators,2023-06-13,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019843,Skincare,Face Wash,Fragrances,Deodorants,2022-02-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019860,Men's Clothing,Trousers,Men's Clothing,T-Shirts,2024-06-17,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019906,Mobile & Accessories,Earphones,Mobile & Accessories,Smartphones,2025-10-24,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019933,Computers,Keyboards & Mice,Mobile & Accessories,Smartphones,2023-04-16,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019939,Computers,Laptops,Mobile & Accessories,Cases & Covers,2026-08-10,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019954,Furniture,Sofas,Home Decor,Lighting,2024-10-12,SOURCE_PIM_PRODUCT_MASTER
+SKU-0019994,Fitness,Dumbbells,Outdoor Recreation,Water Bottles,2025-03-11,SOURCE_PIM_PRODUCT_MASTER

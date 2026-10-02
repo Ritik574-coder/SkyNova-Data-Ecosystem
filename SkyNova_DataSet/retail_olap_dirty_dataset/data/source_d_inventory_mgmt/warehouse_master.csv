@@ -1,0 +1,17 @@
+warehouse_id,warehouse_name,country,state_province,city,capacity_units,warehouse_type,opened_date,source_system,source_file
+WH-001,Nashik Distribution Center,India,Maharashtra,Nashik,708582,FULFILLMENT_CENTER,2019-05-30,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-002,Atlanta Distribution Center,United States,Georgia,Atlanta,466230,FULFILLMENT_CENTER,2019-11-24,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-003,Madurai Distribution Center,India,Tamil Nadu,Madurai,370466,RETURNS_CENTER,2020-05-27,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-004,New Delhi Distribution Center,India,Delhi,New Delhi,100232,FULFILLMENT_CENTER,2020-09-14,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-005,Calgary Distribution Center,Canada,Alberta,Calgary,318776,REGIONAL_DC,2019-06-15,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-006,Atlanta Distribution Center,United States,Georgia,Atlanta,696399,REGIONAL_DC,2021-01-18,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-007,Dubai City Distribution Center,United Arab Emirates,Dubai,Dubai City,466151,FULFILLMENT_CENTER,2021-04-18,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-008,Buffalo Distribution Center,United States,New York,Buffalo,153501,REGIONAL_DC,2020-04-02,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-009,Spokane Distribution Center,United States,Washington,Spokane,366765,RETURNS_CENTER,2019-12-07,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-010,Howrah Distribution Center,India,West Bengal,Howrah,640498,RETURNS_CENTER,2021-03-16,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-011,Madurai Distribution Center,India,Tamil Nadu,Madurai,595076,FULFILLMENT_CENTER,2021-04-09,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-012,Sharjah City Distribution Center,United Arab Emirates,Sharjah,Sharjah City,405706,FULFILLMENT_CENTER,2020-09-09,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-013,Bristol Distribution Center,United Kingdom,England,Bristol,299257,FULFILLMENT_CENTER,2019-02-11,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-014,Springfield Distribution Center,United States,Illinois,Springfield,404668,REGIONAL_DC,2019-05-24,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-015,Kolkata Distribution Center,India,West Bengal,Kolkata,131570,REGIONAL_DC,2019-11-27,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
+WH-016,Tacoma Distribution Center,United States,Washington,Tacoma,95556,RETURNS_CENTER,2019-07-13,SOURCE_D_INVENTORY_MGMT,warehouse_master.csv
